@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "皆無",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-04-01T02:37:32.580090Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "皆無",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_皆無_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "皆無 (Kaimu)",
+      "artist": "One OK Rock",
+      "has_synced": true,
+      "path": "select/02_皆無_(Kaimu)_One_OK_Rock.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "皆無 - Kaimu",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/03_皆無_-_Kaimu_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "皆無",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_皆無_ONE_OK_ROCK.txt"
+    }
+  ]
+}
